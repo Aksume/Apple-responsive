@@ -1,0 +1,69 @@
+{
+	"analytics-uuid": "fda9d632-8102-4982-b1c3-156b03252b69",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1632015884386
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "104463348712717124456",
+		"email": "aksumbaba@gmail.com",
+		"email_verified": true,
+		"at_hash": "wZY0fN9whFPyoNdEyXxTOg",
+		"iat": 1627534107,
+		"exp": 1627537707
+	},
+	"tokens": {
+		"expires_at": 1632021266088,
+		"refresh_token": "1//0fS-oB5ZPAy0dCgYIARAAGA8SNwF-L9IrLaIyHlbGSyZ6_cG1vXdmXQTLrOtmn1EiJjblZXDPHzQgSx3MqpiB9Vf8WzHBM35IHE4",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM99om7g1cYCaD1UP85e54A0lJKk-79U1T2h37dc77MRyVd7EWwjCMMsHOfkrQ-PY9BpuhPjlx87GN8PyfOmc2goS1tZVVZ2Bl7FJ6AyDQDbWPRzrt1_EL0xG2XyI2IqVi4GZhpbWxaEkXfPslOzGgHk2yZwtOeFaC8",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc0MjE3YjhkYWRiYjM2NTc4MzU4MGY5ZTkyNDg3ZDcwMWNkMzhmZTYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA0NDYzMzQ4NzEyNzE3MTI0NDU2IiwiZW1haWwiOiJha3N1bWJhYmFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiI4RGhPVGd2LV8wUDJKZ1lPRm4zNlVBIiwiaWF0IjoxNjMyMDE3NjY1LCJleHAiOjE2MzIwMjEyNjV9.pblgwaWX2WDjcao9mFoqPtXF-u_SZElCqnYhiItE0ZJ5zbrcHxuRnhbXvsJPUnXMItHXuMVRLx4WKcQRsvzKHRcxkPrdGniOXxfjjfDcJgk42RaZhB3cN0wCC-qCzTW0yIuMDMLYiCnKSclc_rkxepWn2KsM-jn4WnXP-1YrJjwZrJc6ZgSxbONKtkW5P5a2AKVN8GlBThl1_qgBUHEe9ehVjGHvY2L4dKQ5QBeU5HVfnpOgeCM_GBE0u7vkOjlyHfmhqt3Rz0jOXSCN5-kKx6UUHl7SIMY0LShYS8B9EhREkmIUyhS3cuWDiDlf9xm4rDiuNK_VNX-4dt21JUg7Xw"
+	},
+	"activeProjects": {
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\Evangadi\\phase 4\\project one\\netflixclone": "netflix-clone-7cba6",
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\Evangadi\\phase 4\\project two\\amazonclone": "clone-a8871",
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\Evangadi\\phase 3\\week 6\\functional-based-react-apple\\myReactapple": "apple-clone-f9c6c",
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\Evangadi\\phase 4\\project five\\apple-responsive-replica-html-css and bootstrap": "apple-responsive-c89fd",
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\Evangadi\\phase 4\\project five\\apple-responsive": "apple-responsive-c89fd",
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\Evangadi\\phase 4\\apple-responsive": "apple-ced7d",
+		"C:\\Users\\tsion\\OneDrive\\Desktop\\react-covid-tracker": "covid-tracker-a1e1e"
+	},
+	"adminsdkconfig": {
+		"clone-a8871": {
+			"projectId": "clone-a8871",
+			"storageBucket": "clone-a8871.appspot.com",
+			"locationId": "us-central"
+		}
+	},
+	"webconfig": {
+		"clone-a8871": {
+			"projectId": "clone-a8871",
+			"appId": "1:636027327928:web:4a164769caafaeb21eeb4d",
+			"storageBucket": "clone-a8871.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyCOkRF1-suFks4qric0sf56HZobWNK_I_U",
+			"authDomain": "clone-a8871.firebaseapp.com",
+			"messagingSenderId": "636027327928",
+			"measurementId": "G-QCRV7SFRS6"
+		}
+	}
+}
